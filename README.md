@@ -2,8 +2,8 @@
 Modelos de lingua para o galego / Language models for Galician
 
 ## Modelos xerais
-    • BERT-GL base dispoñible en https://huggingface.co/marcosgg/bert-base-gl-cased  
-    • BERT-GL small dispoñible en https://huggingface.co/marcosgg/bert-small-gl-cased 
+BERT-GL base dispoñible en https://huggingface.co/marcosgg/bert-base-gl-cased  
+BERT-GL small dispoñible en https://huggingface.co/marcosgg/bert-small-gl-cased 
 
 ## Tradución automática
 
