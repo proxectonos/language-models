@@ -8,6 +8,7 @@ Modelos de lingua para o galego / Language models for Galician
 ## Tradución automática
 + Modelo de tradución automática para español-galego: https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl
 + Modelo de tradución automática para inglés-galego: https://huggingface.co/proxectonos/NOS-MT-OpenNMT-en-gl
+
 ## Recoñecemento de voz
 
 ## Conversión de texto en fala
