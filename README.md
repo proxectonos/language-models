@@ -16,4 +16,4 @@ Modelos de lingua para o galego / Language models for Galician
 
 ## Avaliación 
 
-**Modelos semánticos neuronais:** modelos distribucionais para galego que obteñen os mellores resultados en diversas tarefas, e demostradores online que permiten ver o funcionamento.
+**Modelos semánticos neuronais:** modelos distribucionais para galego que obteñen os mellores resultados en diversas tarefas, e demostradores online que permiten ver o funcionamento. 
