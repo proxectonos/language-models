@@ -7,8 +7,10 @@ Modelos de lingua para o galego / Language models for Galician
 + Checkpoints en [Github](https://github.com/marcospln/galician_bert_checkpoints).
 
 ## Recoñecemento de voz
++ Modelo de recoñecemento de voz en galego:
 
 ## Conversión de texto en fala
++ Modelo de conversión de texto en fala para o galego: 
 
 ## Tradución automática
 + Modelo de tradución automática para español-galego: [Huggingface](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl).
