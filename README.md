@@ -4,7 +4,7 @@ Modelos de lingua para o galego / Language models for Galician
 ## Modelos de propósito xeral
 + [BERT-GL base](https://huggingface.co/marcosgg/bert-base-gl-cased) dispoñíbel en Huggingface.
 + [BERT-GL small](https://huggingface.co/marcosgg/bert-small-gl-cased) dispoñíbel en Huggingface. 
-+ [Checkpoints](https://github.com/marcospln/galician_bert_checkpoints) dispoñíbel en Github.
++ [Checkpoints](https://github.com/marcospln/galician_bert_checkpoints) dispoñíbeis en Github.
 
 ## Recoñecemento de voz
 + Modelo de recoñecemento de voz en galego:
