@@ -1,4 +1,4 @@
-# language-models
+# Language-models
 Modelos de lingua para o galego / Language models for Galician
 
 ## Modelos de propósito xeral
