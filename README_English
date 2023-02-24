@@ -1,21 +1,21 @@
 # Language-models
-Modelos de lingua para o galego / Language models for Galician
+Language models for Galician
 
-## Modelos de propósito xeral
-+ [BERT-GL base](https://huggingface.co/marcosgg/bert-base-gl-cased) dispoñíbel en Huggingface.
-+ [BERT-GL small](https://huggingface.co/marcosgg/bert-small-gl-cased) dispoñíbel en Huggingface. 
-+ [Checkpoints](https://github.com/marcospln/galician_bert_checkpoints) dispoñíbeis en Github.
+## General use models
++ [BERT-GL base](https://huggingface.co/marcosgg/bert-base-gl-cased) available at Huggingface.
++ [BERT-GL small](https://huggingface.co/marcosgg/bert-small-gl-cased) available at Huggingface. 
++ [Checkpoints](https://github.com/marcospln/galician_bert_checkpoints) available at Github.
 
-## Recoñecemento da fala (ASR)
-+ [Modelo de voz para ASR baseado en "wav2vec2-large-xlsr-53" cun modelo de linguaxe integrado](https://huggingface.co/proxectonos/wav2vec2-large-xlsr-53-galician-with-lm) dispoñíbel en Huggingface.
+## Automatic Speech Recognition (ASR)
++ [Speech model based on "wav2vec2-large-xlsr-53" with an integrated language model for ASR](https://huggingface.co/proxectonos/wav2vec2-large-xlsr-53-galician-with-lm) available at Huggingface.
 
-## Síntese de voz (TTS)
-+ Modelo de voz para TTS baseado na arquitectura VITS e adestrado co corpus Sabela.
+## Speech Synthesis (TTS)
++ Speech model based on VITS computer architecture and trained with the corpus Sabela for TTS.
 
-## Tradución automática
-+ [Modelo de tradución automática OpenNMT para español-galego](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl) dispoñíbel en Huggingface.
-+ [Modelo de tradución automática OpenNMT para inglés-galego](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-en-gl) dispoñíbel en Huggingface.
+## Machine Translation
++ [Machine Translation model OpenNMT Spanish-Galician](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl) available at Huggingface.
++ [Machine Translation model OpenNMT English-Galician](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-en-gl) available at Huggingface.
 
-## Avaliación 
+## Evaluation
 
-+ [Modelos semánticos neuronais](https://github.com/marcospln/vector_models_evaluation): modelos distribucionais para galego que obteñen os mellores resultados en diversas tarefas, e demostradores online que permiten ver o funcionamento en Github.
++ [Neural network semantic models](https://github.com/marcospln/vector_models_evaluation): distributional models achieving the best results in various tasks for Galician, and online demos to see them working available at Github.
