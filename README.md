@@ -1,5 +1,5 @@
 # Language-models
-Modelos de lingua para o galego / Language models for Galician
+Modelos de lingua para o galego
 
 ## Modelos de propósito xeral
 + [BERT-GL base](https://huggingface.co/marcosgg/bert-base-gl-cased) dispoñíbel en Huggingface.
