@@ -15,7 +15,3 @@ Language models for Galician
 ## Machine Translation
 + [Machine Translation model OpenNMT Spanish-Galician](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl) available at Huggingface.
 + [Machine Translation model OpenNMT English-Galician](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-en-gl) available at Huggingface.
-
-## Evaluation
-
-+ [Neural network semantic models](https://github.com/marcospln/vector_models_evaluation): distributional models achieving the best results in various tasks for Galician, and online demos to see them working available at Github.
