@@ -1,5 +1,5 @@
 English text [here](https://github.com/proxectonos/language-models/blob/main/README_English.md)
-# Language-models
+# Modelos de lingua
 Modelos de lingua para o galego
 
 ## Modelos de propósito xeral
