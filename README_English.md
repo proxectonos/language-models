@@ -14,4 +14,6 @@ Language models for Galician
 
 ## Machine Translation
 + [Machine Translation model OpenNMT Spanish-Galician](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl) available at Huggingface.
++ [Machine Translation model OpenNMT Galician-Spanish](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-gl-es) available at Huggingface.
++ [Machine Translation model OpenNMT Galician-English](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-gl-en) available at Huggingface.
 + [Machine Translation model OpenNMT English-Galician](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-en-gl) available at Huggingface.
