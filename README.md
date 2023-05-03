@@ -17,4 +17,4 @@ Modelos de lingua para o galego
 + [Modelo de tradución automática OpenNMT para español-galego](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl) dispoñíbel en Huggingface.
 + [Modelo de tradución automática OpenNMT para galego-español](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-gl-es) dispoñíbel en Huggingface.
 + [Modelo de tradución automática OpenNMT para inglés-galego](https://huggingface.co/proxectonos/NOS_MT-OpenNMT-en-gl) dispoñíbel en Huggingface.
-+ [Modelo de tradución automática OpenNMT para galego-inglés](https://huggingface.co/proxectonos/NOS_MT-OpenNMT-gl-en) dispoñíbel en Huggingface.
++ [Modelo de tradución automática OpenNMT para galego-inglés](https://huggingface.co/proxectonos/Nos_MT-OpenNMT-gl-en) dispoñíbel en Huggingface.
