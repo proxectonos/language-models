@@ -7,11 +7,13 @@ Language models for Galician
 + [Checkpoints](https://github.com/marcospln/galician_bert_checkpoints) available at GitHub.
 
 ## Automatic Speech Recognition (ASR)
-+ [ASR speech model based on "wav2vec2" with an integrated LM](https://huggingface.co/proxectonos/wav2vec2-large-xlsr-53-galician-with-lm) available at Huggingface.
++ [ASR model based on the Wav2Vec2 architecture with an integrated LM](https://huggingface.co/proxectonos/wav2vec2-large-xlsr-53-galician-with-lm), available at HuggingFace.
 
 ## Speech Synthesis (TTS)
-+ [Celtia-VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), available at HuggingFace.
-+ [Sabela_VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), available at HuggingFace.
+<!---+ [Celtia-VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), available at HuggingFace.-->
+<!---+ [Sabela_VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), available at HuggingFace.-->
++ [TTS model based on the VITS architecture and trained on the Celtia corpus](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), available at HuggingFace.
++ [TTS model based on the VITS architecture and trained on the Sabela corpus](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), available at HuggingFace.
 
 ## Machine Translation
 + [Machine Translation model OpenNMT Spanish-Galician](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl) available at HuggingFace.
