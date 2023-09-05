@@ -8,11 +8,14 @@ Modelos de lingua para o galego
 + [Checkpoints](https://github.com/marcospln/galician_bert_checkpoints) dispoñíbeis en GitHub.
 
 ## Recoñecemento da fala (ASR)
-+ [Modelo de voz para ASR baseado en "wav2vec2" cun LM integrado](https://huggingface.co/proxectonos/wav2vec2-large-xlsr-53-galician-with-lm) dispoñíbel en HuggingFace.
+<!---+ [Wav2vec2-GL-with-LM](https://huggingface.co/proxectonos/wav2vec2-large-xlsr-53-galician-with-lm) dispoñíbel en HuggingFace. <!---Modelo de voz para ASR baseado na arquitectura "wav2vec2-large-xlsr-53" cun modelo de linguaxe integrado.-->
++ [Modelo de voz para ASR baseado na arquitectura "wav2vec2" cun modelo de linguaxe integrado](https://huggingface.co/proxectonos/wav2vec2-large-xlsr-53-galician-with-lm), dispoñíbel en HuggingFace.
 
 ## Síntese de voz (TTS)
-+ [Celtia-VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), dispoñíbel en HuggingFace.
-+ [Sabela_VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), dispoñíbel en HuggingFace.
+<!---+ [Celtia-VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), dispoñíbel en HuggingFace. <!---Modelo de voz para TTS baseado na arquitectura VITS e adestrado a partir do corpus [Nos_Celtia-GL]().-->
+<!---+ [Sabela_VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), dispoñíbel en HuggingFace. <!---Modelo de voz para TTS baseado na arquitectura VITS e adestrado a partir do corpus Sabela incluído no dataset [CRPIH UVigo-GLVoices]().-->
++ [Modelo de voz para TTS baseado na arquitectura VITS e adestrado a partir do corpus Celtia](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), dispoñíbel en HuggingFace.
++ [Modelo de voz para TTS baseado na arquitectura VITS e adestrado a partir do corpus Sabela](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), dispoñíbel en HuggingFace.
 
 ## Tradución automática
 + [Modelo de tradución automática OpenNMT para español-galego](https://huggingface.co/proxectonos/NOS_MT-OpenNMT-es-gl) dispoñíbel en HuggingFace.
