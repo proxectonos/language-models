@@ -2,7 +2,19 @@ English text [here](https://github.com/proxectonos/language-models/blob/main/REA
 # Modelos de lingua
 Modelos de lingua para o galego
 
-## Modelos de propósito xeral
+## Grandes modelos da linguaxe
+
+### Modelos medianos
++ [Carballo-Llama](https://huggingface.co/proxectonos/Llama-3.1-Carballo-Instr3), modelo baseado no Llama-3.1-8B especializado en galego, pero con soporte para portugués, castelán, inglés e catalán.
++ [Carvalho-PT-GL](https://huggingface.co/Nos-PT/Llama-Carvalho-PT-GL), modelo baseado no Llama-3.1-8B e especializado en galego e portugués, pero con soporta para castelán, inglés e catalán.
+  
+### Modelos pequenos
++ [Carballo-Bloom](https://huggingface.co/proxectonos/Carballo-bloom-1.3B), modelo baseado no modelo BLOOM de 1.7B e especializado en galego.
++ [Carballo-Cerebras](https://huggingface.co/proxectonos/Carballo-cerebras-1.3B), modelo baseado no modelo Cerebras de 1.3B e especializado en galego.
++ [Carvalho_pt-gl](https://huggingface.co/Nos-PT/Carvalho_pt-gl-1.3B), modelo baseado no modelo Cerebras de 1.3B e especializado en galego e portugués.
+
+
+## Modelos de propósito xeral tipo BERT
 + [BERT-GL base](https://huggingface.co/marcosgg/bert-base-gl-cased) dispoñíbel en HuggingFace.
 + [BERT-GL small](https://huggingface.co/marcosgg/bert-small-gl-cased) dispoñíbel en HuggingFace. 
 + [Checkpoints](https://github.com/marcospln/galician_bert_checkpoints) dispoñíbeis en GitHub.
