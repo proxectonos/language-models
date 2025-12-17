@@ -26,14 +26,14 @@ Modelos de lingua para o galego
 ## Síntese de voz (TTS)
 <!---+ [Celtia-VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), dispoñíbel en HuggingFace. <!---Modelo de voz para TTS baseado na arquitectura VITS e adestrado a partir do corpus [Nos_Celtia-GL]().-->
 <!---+ [Sabela_VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), dispoñíbel en HuggingFace. <!---Modelo de voz para TTS baseado na arquitectura VITS e adestrado a partir do corpus Sabela incluído no dataset [CRPIH UVigo-GLVoices]().-->
-+ [Modelo TTS baseado na arquitectura VITS e adestrado a partir do corpus Celtia (grafemas)](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), dispoñíbel en HuggingFace.
-+ [Modelo TTS baseado na arquitectura VITS e adestrado a partir do corpus Celtia (fonemas)](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-phonemes), dispoñíbel en HuggingFace. 
-+ [Modelo TTS baseado na arquitectura VITS e adestrado a partir do corpus Sabela](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), dispoñíbel en HuggingFace.
-+ [Modelo TTS baseado na arquitectura VITS e adestrado a partir do corpus Icía](https://huggingface.co/proxectonos/Nos_TTS-icia-vits-phonemes), dispoñíbel en HuggingFace.
-+ [Modelo TTS baseado na arquitectura VITS e adestrado a partir do corpus Iago](https://huggingface.co/proxectonos/Nos_TTS-iago-vits-phonemes), dispoñíbel en HuggingFace.
-+ [Modelo TTS baseado na arquitectura VITS e adestrado a partir do corpus Paulo](https://huggingface.co/proxectonos/Nos_TTS-paulo-vits-phonemes), dispoñíbel en HuggingFace. 
-+ [Modelo TTS baseado na arquitectura VITS e adestrado a partir do corpus Brais (grafemas)](https://huggingface.co/proxectonos/Nos_TTS-brais-vits-graphemes), dispoñíbel en HuggingFace.
-+ [Modelo TTS baseado na arquitectura VITS e adestrado a partir do corpus Brais (fonemas)](https://huggingface.co/proxectonos/Nos_TTS-brais-vits-phonemes), dispoñíbel en HuggingFace.
++ [Modelo Celtia](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes) baseado na arquitectura VITS e adestrado a partir de grafemas, dispoñíbel en HuggingFace.
++ [Modelo Celtia](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-phonemes) TTS baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace. 
++ [Modelo Sabela](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace.
++ [Modelo Icía](https://huggingface.co/proxectonos/Nos_TTS-icia-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace.
++ [Modelo Iago](https://huggingface.co/proxectonos/Nos_TTS-iago-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace.
++ [Modelo Paulo](https://huggingface.co/proxectonos/Nos_TTS-paulo-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace. 
++ [Modelo Brais](https://huggingface.co/proxectonos/Nos_TTS-brais-vits-graphemes) baseado na arquitectura VITS e adestrado a partir de grafemas, dispoñíbel en HuggingFace.
++ [Modelo Brais](https://huggingface.co/proxectonos/Nos_TTS-brais-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace.
   
 ## Tradución automática
 + [Modelo de tradución automática OpenNMT para español-galego](https://huggingface.co/proxectonos/NOS_MT-OpenNMT-es-gl) dispoñíbel en HuggingFace.
