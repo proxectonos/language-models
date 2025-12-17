@@ -12,8 +12,15 @@ Language models for Galician
 ## Speech Synthesis (TTS)
 <!---+ [Celtia-VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), available at HuggingFace.-->
 <!---+ [Sabela_VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), available at HuggingFace.-->
-+ [TTS model based on the VITS architecture and trained on the Celtia corpus](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), available at HuggingFace.
-+ [TTS model based on the VITS architecture and trained on the Sabela corpus](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), available at HuggingFace.
+
++ [Celtia model](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes) based on VITS architecture and trained on graphemes input, available at HuggingFace.
++ [Celtia model](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-phonemes) based on VITS architecture and trained on phonemes input, available at HuggingFace.
++ [Sabela model](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes) based on VITS architecture and trained on phonemes input, available at HuggingFace.
++ [Icía model](https://huggingface.co/proxectonos/Nos_TTS-icia-vits-phonemes) based on VITS architecture and trained on phonemes input, available at HuggingFace.
++ [Iago model](https://huggingface.co/proxectonos/Nos_TTS-iago-vits-phonemes) based on VITS architecture and trained on phonemes input, available at HuggingFace.
++ [Paulo model](https://huggingface.co/proxectonos/Nos_TTS-paulo-vits-phonemes) based on VITS architecture and trained on phonemes input, available at HuggingFace.
++ [Brais model](https://huggingface.co/proxectonos/Nos_TTS-brais-vits-graphemes) based on VITS architecture and trained on graphemes input, available at HuggingFace.
++ [Brais model](https://huggingface.co/proxectonos/Nos_TTS-brais-vits-phonemes) based on VITS architecture and trained on phonemes input, available at HuggingFace.
 
 ## Machine Translation
 + [Machine Translation model OpenNMT Spanish-Galician](https://huggingface.co/proxectonos/NOS-MT-OpenNMT-es-gl) available at HuggingFace.
