@@ -27,7 +27,7 @@ Modelos de lingua para o galego
 <!---+ [Celtia-VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes), dispoñíbel en HuggingFace. <!---Modelo de voz para TTS baseado na arquitectura VITS e adestrado a partir do corpus [Nos_Celtia-GL]().-->
 <!---+ [Sabela_VITS-GL](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes), dispoñíbel en HuggingFace. <!---Modelo de voz para TTS baseado na arquitectura VITS e adestrado a partir do corpus Sabela incluído no dataset [CRPIH UVigo-GLVoices]().-->
 + [Modelo Celtia](https://huggingface.co/proxectonos/Nos_TTS-gl-celtia-vits-graphemes) baseado na arquitectura VITS e adestrado a partir de grafemas, dispoñíbel en HuggingFace.
-+ [Modelo Celtia](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-phonemes) TTS baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace. 
++ [Modelo TTS Celtia](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace. 
 + [Modelo Sabela](https://huggingface.co/proxectonos/Nos_TTS-gl-sabela-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace.
 + [Modelo Icía](https://huggingface.co/proxectonos/Nos_TTS-icia-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace.
 + [Modelo Iago](https://huggingface.co/proxectonos/Nos_TTS-iago-vits-phonemes) baseado na arquitectura VITS e adestrado a partir de fonemas, dispoñíbel en HuggingFace.
